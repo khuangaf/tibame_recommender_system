@@ -22,8 +22,8 @@ Please download [the movie dataset](https://www.kaggle.com/rounakbanik/the-movie
 ```
 ├── ecommerce-dataset
 ├── the-movie-dataset
-├Collaborative Filtering.ipynb
-├Content-Based Recommendation.ipynb
-├...
+├ Collaborative Filtering.ipynb
+├ Content-Based Recommendation.ipynb
+├ ...
 ```
 
