@@ -1,4 +1,4 @@
-# Tibame 打造智能推薦系統：用AI搞懂客戶精準行銷
+# TibaMe 打造智能推薦系統：用AI搞懂客戶精準行銷
 
 
 <a href="https://www.tibame.com/courselibrary/ai"><img src="https://yt3.ggpht.com/a/AGF-l78wdVg7OvLIujszam7RexjUhNpBXpQzknqWbA=s900-c-k-c0xffffffff-no-rj-mo"  height="130"></a> 
@@ -8,7 +8,7 @@
 
 ## 簡介 Intro
 
-這個GitHub Repo為 Tibame線上課程 __打造智能推薦系統：用AI搞懂客戶精準行銷__ 之實作程式碼，這門課你將會學到不同推薦系統的演算法，包括協同過濾、矩陣分解、深度學習的推薦系統模型等等。
+這個GitHub Repo為 TibaMe線上課程 __打造智能推薦系統：用AI搞懂客戶精準行銷__ 之實作程式碼，這門課你將會學到不同推薦系統的演算法，包括協同過濾、矩陣分解、深度學習的推薦系統模型等等。
 
 This repository contains the source code for a recommender system course on Tibame, a Taiwan-based online education platform. You'll learn a variety of recommender system algorithms, from conventional collaborative filtering to more advanced Deep Learning techniques.
 
