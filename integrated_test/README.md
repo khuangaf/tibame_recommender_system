@@ -1,4 +1,4 @@
-# 目標 Target
+# README
 
 優化點擊率，events資料集為隱性評分資料，我會示範用hold-one-out evaluation(只用每個使用者最後一個點擊行為當作測試集之 evaluation)。由於events.csv資料量相當大，我隨機抽取一成的使用者和物品，以及只有 _view_ 的event至另一個檔案 __events_small.csv__ 在 _ecommerce-dataset_ 資料夾底下，範例解答中會使用這個資料（而不是本來的 __events.csv__ ）以加快速度。
 
