@@ -2,7 +2,7 @@
 
 
 <a href="https://www.tibame.com/courselibrary/ai"><img src="https://yt3.ggpht.com/a/AGF-l78wdVg7OvLIujszam7RexjUhNpBXpQzknqWbA=s900-c-k-c0xffffffff-no-rj-mo"  height="130"></a> 
-<a href="https://rosetta.ai/"><img src="https://www.rosetta.ai/images/logo.png" height="80" ></a>
+
 
 
 
