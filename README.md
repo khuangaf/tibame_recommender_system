@@ -8,7 +8,7 @@
 
 ## 簡介 Intro
 
-這個GitHub Repo為 TibaMe線上課程 __打造智能推薦系統：用AI搞懂客戶精準行銷__ 之實作程式碼，這門課你將會學到不同推薦系統的演算法，包括協同過濾、矩陣分解、深度學習的推薦系統模型等等。
+這個GitHub Repo為 TibaMe線上課程 [__打造智能推薦系統：用AI搞懂客戶精準行銷__](https://www.tibame.com/course/609) 之實作程式碼，這門課你將會學到不同推薦系統的演算法，包括協同過濾、矩陣分解、深度學習的推薦系統模型等等。
 
 This repository contains the source code for a recommender system course on Tibame, a Taiwan-based online education platform. You'll learn a variety of recommender system algorithms, from conventional collaborative filtering to more advanced Deep Learning techniques.
 
@@ -26,4 +26,3 @@ Please download [the movie dataset](https://www.kaggle.com/rounakbanik/the-movie
 ├ Content-Based Recommendation.ipynb
 ├ ...
 ```
-
